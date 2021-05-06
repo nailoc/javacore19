@@ -1,0 +1,3 @@
+tiger/호랑이
+dog/강아지
+orange/오렌지

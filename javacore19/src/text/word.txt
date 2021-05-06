@@ -1,0 +1,10 @@
+Apple
+Lion
+Grape
+Eagle
+Elephont
+Car
+Ship
+Plane
+Bike
+Motor
